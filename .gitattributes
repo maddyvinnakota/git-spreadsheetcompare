@@ -1,1 +1,1 @@
-*.xls* diff=excel
+*.xlsx* diff=zip
